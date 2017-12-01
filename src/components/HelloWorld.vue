@@ -3,7 +3,7 @@
     <h1>{{ msg }}</h1>
     <h2>Essential Links</h2>
     <ul>
-      <li>我的第一个vue项目
+      <li>我的第一个vue项目，emmmmmmmmmm 阿西吧 谢谢谢
         {{ shiliangl }}插值表达
       </li>
       <li><a href="https://vuejs.org" target="_blank">Core Docs</a></li>
@@ -29,7 +29,7 @@ export default {
   data () {
     return {
       msg: 'Welcome to Your Vue.js App',
-      shiliangl:'xxxxxx'
+      shiliangl:'今天是第二天请加油'
     }
   }
 }
